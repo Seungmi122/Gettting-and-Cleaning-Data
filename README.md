@@ -1,7 +1,9 @@
 # Gettting-and-Cleaning-Data
 ## Introduction
  This is for the "Getting and Cleaning Data" course project in Coursera. 
+ 
  The data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+ 
  For more details about the data, http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Required Steps
